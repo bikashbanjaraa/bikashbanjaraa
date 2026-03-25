@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am currently working as Data Solution Architect. I mainly Deals with ETL pipelines , SQL and Python.<br><br>I am currently working on RAG based project using langchain and HuggingFace.<br><br>Ask me about Database, Python for web and automation .<br><br>Fun Fact : I love doing Kirtan and i do play different musical instrument
+<br>I am currently working as Data Solution Architect. I mainly Deals with ETL pipelines , SQL and Python.<br><br>I am  also  working on RAG based project using langchain and HuggingFace.<br><br>Ask me about Database, Python for web and automation .<br><br>Fun Fact : I love doing Kirtan and i do play different musical instrument
 
 
 ## 🌐 Socials:
